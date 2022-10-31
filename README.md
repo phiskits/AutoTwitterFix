@@ -6,7 +6,7 @@ This program will check the last entry copied to your clipboard for a specific c
 
 ---NOTICE---
 
-* all the configured values need to be strings. i.e. even numbers, like for **check_delay**, need to be written like "0", not 0
+* all the configured values need to be strings. i.e. even numbers, like for **check_delay**, need to be written like "2000", not 2000
 * if you need to put the program somewhere else, like on your desktop, do NOT move the actual .exe-file. instead, create a shortcut of it and move that one. the whole release-folder can be anywhere on your machine, though
 
 ---CONFIG---
