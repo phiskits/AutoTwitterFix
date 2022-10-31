@@ -1,6 +1,6 @@
 # AutoTwitterFix
 
-Replace normal Twitter links with the "vxtwitter" equivalent. or "fxtwitter", or whatever you want really.
+Application to replace normal Twitter links with the "vxtwitter" equivalent. or "fxtwitter", or whatever you want really.
 
 This program will check the last entry copied to your clipboard for a specific content and replace it with a different one.
 
